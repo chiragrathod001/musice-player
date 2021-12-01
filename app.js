@@ -44,4 +44,4 @@ let allmusic = [
             artist: 'DJ',
             src: 'music9'
       }
-];
+];    
