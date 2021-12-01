@@ -35,6 +35,9 @@
       .wrapper{
             width: 300px;
       }
+      .container{
+            height: auto;
+      }
    }
 #play{
       width: 40px;
